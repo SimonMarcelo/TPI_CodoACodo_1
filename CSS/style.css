@@ -6,11 +6,7 @@
 header div div div h6{
     margin-top: 6%;
 }
-.container{
-    width: 100%;
-    position: relative;
-    margin: 0%;
-}
+
 
 #image_text{
     display: flex;
