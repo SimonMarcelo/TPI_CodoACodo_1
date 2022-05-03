@@ -16,7 +16,7 @@ header div div div h6{
     display: flex;
     flex-direction: column;
     border: 2px;
-    size: 100%; 
+    /* size: 100%;  */
     position: absolute;
     color: rgb(255, 255, 255);
     top: 50%;
@@ -26,7 +26,7 @@ header div div div h6{
     margin-right: 10%;
     justify-content: right;
 }
-.navbar-dark .nav-link.colorVerde {
+.navbar-dark .nav-item .colorVerde {
     color:green;
 }
 
